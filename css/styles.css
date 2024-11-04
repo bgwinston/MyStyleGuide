@@ -16,12 +16,12 @@ h3 {
     font-size: 16px;
 }
 img {
-    border-radius: 16px; /* Rounds the corners of the image */
-    width: 100%;         /* Sets the width to fill the container */
-    max-width: 850px;    /* Limits the maximum width */
-    height: auto;        /* Maintains the aspect ratio */
-    display: block;      /* Makes the image a block element */
-    margin: 0 auto;     /* Centers the image horizontally */
+    border-radius: 16px;
+    width: 100%;         
+    max-width: 850px;    
+    height: auto;        
+    display: block;      
+    margin: 0 auto;     
 }
 
 button {
